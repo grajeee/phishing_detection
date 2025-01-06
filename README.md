@@ -26,6 +26,4 @@ The csv file of phishing mails is from kaggle ```kaggle.com```
 The primary use of this project is to protect users from falling victim to phishing attacks. By integrating this project into web browsers or cybersecurity systems, it can provide real-time warnings to users when they attempt to visit a potentially harmful website.
 
 we are  further developing this to make in as a plugin and extension that prevents victims to visit those phishing sites 
-## License
 
-This project is licensed under the [MIT License](./LICENSE). Please see the [LICENSE](./LICENSE) file for more details.
